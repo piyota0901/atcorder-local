@@ -6,6 +6,7 @@ AtCoderのローカル環境リポジトリ
 - poetry
 - online-judge-tools
 - atcorder-cli
+  - 自動的に`online-judge-tools`を検知してくれるらしい
 
 ## Setting
 ---
